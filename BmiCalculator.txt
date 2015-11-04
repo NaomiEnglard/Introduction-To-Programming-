@@ -1,0 +1,10 @@
+// Homework 5 BMI calculator
+//Naomi Englard
+
+public class BmiCalculator
+{
+	public static void main(String[] args)
+	{
+	
+	}
+}
