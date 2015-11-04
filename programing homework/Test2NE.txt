@@ -1,0 +1,33 @@
+Write a program that reads the contents of a file that contains a list of numbers. After all of the numbers have been read, the program should display a message indicating the largest and smallest numbers in the list. It should also display the average of all of the numbers. You will also write this output to a file.
+I have attached the input file Numbers.txt that contains the list of numbers.
+Please make sure to upload both your source code (.java file) and output file (.txt file).
+
+
+
+24
+8
+129
+51
+-17
+212
+81
+2
+989
+-25
+33
+77
+341
+99
+44
+2
+1250
+555
+63
+613
+-12
+110
+36
+1100
+ 
+ 
+

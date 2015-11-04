@@ -1,0 +1,17 @@
+//Naomi Englard
+//HW 10
+
+import java.util.Scanner;
+import java.IO.*;
+
+public class FileNE
+{
+	public static void main(String[] args) throws IOException
+	{
+	File myfile = new File("listnum.txt");
+	Scanner input= new Scanner(myfile);
+	String line=inputFile.nextLine();
+	System.out.prinln(line);
+	inputFile.close();
+	}
+}
